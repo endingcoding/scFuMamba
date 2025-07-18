@@ -14,7 +14,7 @@ Multi-Omics Fusion with Cross-Modal Knowledge Augmentation for Single-Cell Profi
 * scikit-learn 1.5.1 <br>
 
 ## Getting started
-If you wish to use your own datasets in **scMMAE**, you need to modify the following six parameters:
+If you wish to use your own datasets in **scFuMamba**, you need to modify the following six parameters:
 
 - `config.RNA_tokens = config.RNA_component * config.emb_RNA`  
   `RNA_tokens` represents the number of genes used (e.g., 4000 highly variable genes).  
