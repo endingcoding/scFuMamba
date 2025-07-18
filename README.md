@@ -50,4 +50,4 @@ scFuMamba relies on specific versions of Mamba-related libraries. Please manuall
 
 Make sure these versions are properly installed to ensure compatibility with the Mamba backbone used in scFuMamba.
 ## Weighted Model
-If you need pretrained and fine-tuned model for the dataset in the experiment, please contact [dmeng@gbu.edu.cn](mailto:xiaoyj2024@163.com)
+If you need pretrained and fine-tuned model for the dataset in the experiment, please contact [xiaoyj2024@163.com](mailto:xiaoyj2024@163.com)
