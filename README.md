@@ -28,7 +28,7 @@ If you wish to use your own datasets in **scFuMamba**, you need to modify the fo
 The input data is two matrix (RNA: cell_numbers\*1\*gene_numbers, PROTEIN:cell_numbers\*1\*protein_numbers). In addition, input data should be normalized before running the model.
 
 ## Example
-Use Anaconda to create a Python virtual environment. Here, we will create a Python 3.11 environment named scMMAE
+Use Anaconda to create a Python virtual environment. Here, we will create a Python 3.11 environment named scFuMamba
 ```cmd
 conda create -n scFuMamba python=3.10.13
 ```
